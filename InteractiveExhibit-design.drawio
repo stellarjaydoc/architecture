@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2021-03-03T00:28:41.834Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="18ZEKr_FSI9yLk9re2VQ" version="14.4.3" type="github">
+  <diagram id="wturOI84oNlGSttYjVYe" name="Page-1">
+    <mxGraphModel dx="1124" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-2" value="&lt;b&gt;Users:&lt;/b&gt;&lt;br&gt;_id, name, email, password" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#999999;" parent="1" source="KkjCR7LYdQqrNpHg-T1N-3" target="KkjCR7LYdQqrNpHg-T1N-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-3" value="&lt;b&gt;Collections:&lt;/b&gt;&lt;br&gt;_id, name, owner_id user_ids[]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#999999;" parent="1" source="KkjCR7LYdQqrNpHg-T1N-4" target="KkjCR7LYdQqrNpHg-T1N-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-4" value="&lt;b&gt;Exhibits:&lt;/b&gt;&lt;br&gt;_id, name, description, published, collection_id" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#999999;" parent="1" source="KkjCR7LYdQqrNpHg-T1N-5" target="KkjCR7LYdQqrNpHg-T1N-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-5" value="&lt;b&gt;Comments:&lt;/b&gt;&lt;br&gt;_id, text, name, hidden, exhibit_id" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-7" value="Administrators" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="150" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-8" value="A Collection has one owner, multiple users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-9" value="A Exhibit has one Collection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="375" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-10" value="A Comment has one Exhibit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="545" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-12" value="&lt;h1&gt;Data Entities&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-13" value="&lt;h1&gt;Admin Screens&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="220" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-14" value="&lt;b&gt;User SignIn, Create&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-15" value="&lt;b&gt;Collections&lt;/b&gt;&lt;br&gt;list of collections a user has access to" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-17" value="&lt;b&gt;Collection Edit&lt;/b&gt;&lt;br&gt;update name, ownership, and users with access to collection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-18" value="&lt;b&gt;User Edit&lt;/b&gt;&lt;br&gt;update name, email, password" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-19" value="&lt;b&gt;Collection&lt;/b&gt;&lt;br&gt;list of exhibits in a collection; also display their comments" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="270" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-20" value="&lt;b&gt;Exhibit Edit&lt;/b&gt;&lt;br&gt;update name, description, publish" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="380" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-21" value="&lt;h1&gt;Public Screens&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="470" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-22" value="&lt;b&gt;View Collection Comments&lt;/b&gt;&lt;br&gt;list of comments for a collection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="520" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-23" value="&lt;b&gt;View Exhibit Comments&lt;/b&gt;&lt;br&gt;list of comments for an exhibit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="520" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-24" value="&lt;b&gt;Add Exhibit Comment&lt;/b&gt;&lt;br&gt;add a comment for an exhibit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="520" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-25" value="Can a Comment have one Collection?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="545" y="210" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KkjCR7LYdQqrNpHg-T1N-25" target="KkjCR7LYdQqrNpHg-T1N-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#999999;" parent="1" source="KkjCR7LYdQqrNpHg-T1N-28" target="KkjCR7LYdQqrNpHg-T1N-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-28" value="&lt;b&gt;Artifact:&lt;/b&gt;&lt;br&gt;_id, name, description, published, exhibit_id" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fontColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="690" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
