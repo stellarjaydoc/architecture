@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T00:46:47.869Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="IEmgdO6vOfZ50NJur99w" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T00:49:53.482Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="8veNc3EQseWzqjlABRVk" version="14.4.3" type="github">
   <diagram id="wturOI84oNlGSttYjVYe" name="Page-1">
     <mxGraphModel dx="1124" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,25 +10,25 @@
         <mxCell id="KkjCR7LYdQqrNpHg-T1N-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#999999;" parent="1" source="KkjCR7LYdQqrNpHg-T1N-3" target="KkjCR7LYdQqrNpHg-T1N-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KkjCR7LYdQqrNpHg-T1N-3" value="&lt;b&gt;Collections:&lt;/b&gt;&lt;br&gt;_id, name, owner_id user_ids[]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-3" value="&lt;b&gt;Collections:&lt;/b&gt;&lt;br&gt;_id, name, owner editors[]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KkjCR7LYdQqrNpHg-T1N-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#999999;" parent="1" source="KkjCR7LYdQqrNpHg-T1N-4" target="KkjCR7LYdQqrNpHg-T1N-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KkjCR7LYdQqrNpHg-T1N-4" value="&lt;b&gt;Exhibits:&lt;/b&gt;&lt;br&gt;_id, name, description, published, collection_id" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-4" value="&lt;b&gt;Exhibits:&lt;/b&gt;&lt;br&gt;_id, name, description, published, collection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KkjCR7LYdQqrNpHg-T1N-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#999999;" parent="1" source="KkjCR7LYdQqrNpHg-T1N-5" target="KkjCR7LYdQqrNpHg-T1N-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KkjCR7LYdQqrNpHg-T1N-5" value="&lt;b&gt;Comments:&lt;/b&gt;&lt;br&gt;_id, text, name, hidden, exhibit_id" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-5" value="&lt;b&gt;Comments:&lt;/b&gt;&lt;br&gt;_id, text, name, hidden, exhibit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="80" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KkjCR7LYdQqrNpHg-T1N-7" value="Administrators" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="150" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KkjCR7LYdQqrNpHg-T1N-8" value="A Collection has one owner, multiple users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-8" value="A Collection has one owner, multiple editors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="160" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KkjCR7LYdQqrNpHg-T1N-9" value="A Exhibit has one Collection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -82,7 +82,7 @@
         <mxCell id="KkjCR7LYdQqrNpHg-T1N-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#999999;" parent="1" source="KkjCR7LYdQqrNpHg-T1N-28" target="KkjCR7LYdQqrNpHg-T1N-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KkjCR7LYdQqrNpHg-T1N-28" value="&lt;b&gt;Artifact:&lt;/b&gt;&lt;br&gt;_id, name, description, published, exhibit_id" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fontColor=#999999;" parent="1" vertex="1">
+        <mxCell id="KkjCR7LYdQqrNpHg-T1N-28" value="&lt;b&gt;Artifact:&lt;/b&gt;&lt;br&gt;_id, name, description, media, published, exhibit" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fontColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="690" y="80" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3DQpPSk2LKlxuotOLOo-1" value="&lt;font color=&quot;#000000&quot;&gt;/sign-in&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;" vertex="1" parent="1">
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="I3DQpPSk2LKlxuotOLOo-10" value="&lt;font color=&quot;#000000&quot;&gt;/comment/exhibit/:id&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="520" y="660" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I3DQpPSk2LKlxuotOLOo-12" value="&lt;b&gt;Media:&lt;/b&gt;&lt;br&gt;_id, type, url, artifact" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
