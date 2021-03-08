@@ -1,1 +1,329 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T20:14:18.603Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" version="14.4.4" etag="ON8MApSkwjlMtpZIQUOf" type="github"><diagram id="Nhof1sXWg5C9J0LDxbli">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-08T20:15:05.214Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="q7Px1Npsyp8MqCctZ2cg" version="14.4.4" type="github">
+  <diagram id="Nhof1sXWg5C9J0LDxbli" name="Page-1">
+    <mxGraphModel dx="786" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;strokeWidth=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#CCCCCC;strokeColor=none;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-40" target="sHZ67AZV1sh5Fanvu_Ic-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="270" as="sourcePoint" />
+            <mxPoint x="545" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="290" as="targetPoint" />
+            <mxPoint x="30" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-3" value="&lt;b style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;S&lt;br&gt;&lt;/span&gt;O&lt;br&gt;U&lt;br&gt;R&lt;br&gt;C&lt;br&gt;E&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-4" value="&lt;b style=&quot;font-size: 16px&quot;&gt;D&lt;br&gt;E&lt;br&gt;P&lt;br&gt;L&lt;br&gt;O&lt;br&gt;Y&lt;br&gt;E&lt;br&gt;D&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="460" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;fillColor=#CCCCCC;strokeColor=none;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-36" target="sHZ67AZV1sh5Fanvu_Ic-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="340" as="sourcePoint" />
+            <mxPoint x="610" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-6" value="Release to dev or prod" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="233" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-7" value="&lt;b&gt;&lt;font&gt;Camping Checklist&amp;nbsp; cloud functions (&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font&gt;TypeScript Node)&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="65" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-8" value="&lt;b&gt;&lt;font&gt;Apple App Store&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="570" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-9" value="&lt;b&gt;&lt;font&gt;Google Play Store&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="440" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-11" value="&lt;b&gt;&lt;font&gt;Android devices&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-10">
+          <mxGeometry x="20" y="20" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-12" value="&lt;b&gt;&lt;font&gt;Android devices&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-10">
+          <mxGeometry x="10" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-13" value="&lt;b&gt;&lt;font&gt;Android devices&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-10">
+          <mxGeometry width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-14" value="" style="group;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="660" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-15" value="Release to dev or prod" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="160.66" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;fillColor=#CCCCCC;strokeColor=none;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-7" target="sHZ67AZV1sh5Fanvu_Ic-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="945" y="290" as="sourcePoint" />
+            <mxPoint x="955" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-46" target="sHZ67AZV1sh5Fanvu_Ic-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="110" as="sourcePoint" />
+            <mxPoint x="610" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-18" value="Build-time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;fillColor=#CCCCCC;strokeColor=none;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-7" target="sHZ67AZV1sh5Fanvu_Ic-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1135" y="175" as="sourcePoint" />
+            <mxPoint x="1025" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;strokeWidth=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#CCCCCC;strokeColor=none;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-40" target="sHZ67AZV1sh5Fanvu_Ic-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="260" as="sourcePoint" />
+            <mxPoint x="610" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-21" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;fontColor=#000000;fillColor=#CCCCCC;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="537" y="400" as="sourcePoint" />
+            <mxPoint x="537" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-22" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;fontColor=#000000;fillColor=#CCCCCC;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="536" y="620" as="sourcePoint" />
+            <mxPoint x="536" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=2;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-13" target="sHZ67AZV1sh5Fanvu_Ic-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="470" as="sourcePoint" />
+            <mxPoint x="610" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=2;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-13" target="sHZ67AZV1sh5Fanvu_Ic-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="730" as="sourcePoint" />
+            <mxPoint x="270" y="645" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=2;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-50" target="sHZ67AZV1sh5Fanvu_Ic-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="475" as="sourcePoint" />
+            <mxPoint x="370" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=2;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.997;entryY=0.683;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-50" target="sHZ67AZV1sh5Fanvu_Ic-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="485" as="sourcePoint" />
+            <mxPoint x="380" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=2;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-11" target="sHZ67AZV1sh5Fanvu_Ic-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="745" as="sourcePoint" />
+            <mxPoint x="190" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=2;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-48" target="sHZ67AZV1sh5Fanvu_Ic-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="745" as="sourcePoint" />
+            <mxPoint x="190" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=2;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-48" target="sHZ67AZV1sh5Fanvu_Ic-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="975" as="sourcePoint" />
+            <mxPoint x="720" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="580" />
+              <mxPoint x="640" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=2;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sHZ67AZV1sh5Fanvu_Ic-11" target="sHZ67AZV1sh5Fanvu_Ic-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="965" as="sourcePoint" />
+            <mxPoint x="190" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;align=left;rotation=-90;strokeWidth=2;strokeColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="701" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-32" value="JSON resources and embedded webviews" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="771" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;align=left;rotation=-90;strokeWidth=2;strokeColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="700" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-34" value="service calls" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="770" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="30" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-36" value="&lt;b&gt;Marketing and Content site (&lt;/b&gt;&lt;b&gt;Gatsby)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=10;spacingLeft=10;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-35">
+          <mxGeometry width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-37" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;JSON files:&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;- list of recommendations&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;- single recommendations&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-35">
+          <mxGeometry x="21.310000000000002" y="138.99555555555554" width="210" height="52.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-38" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Pages&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&amp;nbsp;(full and embedded views)&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;- &quot;Get the App&quot; home page&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;- Camping Gear Recommendations&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&amp;nbsp; - single recommendation&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;- Camping articles&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&amp;nbsp; - single article&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-35">
+          <mxGeometry x="19" y="38.99555555555554" width="212.31" height="87.77777777777777" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="30" width="370" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-40" value="&lt;b&gt;&lt;font&gt;Camping Checklist application (Flutter)&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-39">
+          <mxGeometry width="370" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-41" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Integration tests&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-39">
+          <mxGeometry x="16.428571428571445" y="108" width="277.5" height="22.66" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-42" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Unit tests&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-39">
+          <mxGeometry x="16.428571428571445" y="75.33999999999997" width="277.5" height="22.66" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-43" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Source code&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-39">
+          <mxGeometry x="16.428571428571445" y="41.670000000000016" width="277.5" height="22.66" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-44" value="Build flavor&lt;br&gt;- prod points to GC app &amp;amp; gpc app&lt;br&gt;- dev points to GCDev app &amp;amp; gpc-dev web" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-39">
+          <mxGeometry x="16.42999999999995" y="138" width="343.57" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="30" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-46" value="&lt;b&gt;&lt;font&gt;CMS (S&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font&gt;trapi)&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;strokeColor=#d6b656;gradientColor=#ffd966;fillColor=#fff2cc;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-45">
+          <mxGeometry width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-47" value="users, articles, recommendations, products, resources" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-45">
+          <mxGeometry x="16.66666666666667" y="40" width="112.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-48" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Android devices&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="680" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-49" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Android devices&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-50" value="&lt;b&gt;&lt;font&gt;iOS devices&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="320" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-52" value="&lt;b&gt;&lt;font&gt;Firebase Project: gpc web&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-51">
+          <mxGeometry width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-53" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Hosting&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;custom domain:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;campingchecklist.stellarjaysoftware.com&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-51">
+          <mxGeometry x="18" y="40" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-54" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sHZ67AZV1sh5Fanvu_Ic-51" source="sHZ67AZV1sh5Fanvu_Ic-52" target="sHZ67AZV1sh5Fanvu_Ic-52">
+          <mxGeometry x="64" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="450" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-56" value="&lt;b&gt;&lt;font&gt;Firebase Project: gpc-dev web&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-55">
+          <mxGeometry width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-57" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Hosting&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;custom domain:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;campingchecklistdev.stellarjaysoftware.com&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;" vertex="1" parent="sHZ67AZV1sh5Fanvu_Ic-55">
+          <mxGeometry x="14" y="40" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-58" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sHZ67AZV1sh5Fanvu_Ic-55" source="sHZ67AZV1sh5Fanvu_Ic-56" target="sHZ67AZV1sh5Fanvu_Ic-56">
+          <mxGeometry x="60" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-59" value="&lt;b&gt;&lt;font&gt;Firebase Project: GC app&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="730" y="350" width="380" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-60" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Authentication&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="750" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-61" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Firestore&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="910" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-62" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Cloud Functions&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="750" y="430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-63" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Crashlytics&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="910" y="430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-64" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Performance&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="750" y="470" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-65" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Analytics&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="910" y="470" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-66" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Remote Config&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="750" y="515" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-67" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;AdMob&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="910" y="515" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-68" value="&lt;b&gt;&lt;font&gt;Firebase Project: GCDev app&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="730" y="610" width="380" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-69" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Authentication&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="753" y="650" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-70" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Firestore&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="913" y="650" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-71" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Cloud Functions&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="753" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-72" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Crashlytics&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="913" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-73" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Performance&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="753" y="730" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-74" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Analytics&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="913" y="730" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-75" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Remote Config&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="753" y="775" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sHZ67AZV1sh5Fanvu_Ic-76" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;AdMob&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="913" y="775" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
