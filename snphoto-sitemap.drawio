@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T23:27:53.150Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="k4JYBeQ-1_FlcaOtH0MS" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T23:34:22.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="fx3UbbGuJkQENw0TiiMc" version="23.1.7" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2185" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -157,16 +157,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xg9k1YAQE1Uhe5DRs7J3-79" value="Client login" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Xg9k1YAQE1Uhe5DRs7J3-79" value="Client login" style="rounded=1;fillColor=#009900;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="677" y="730" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xg9k1YAQE1Uhe5DRs7J3-80" value="Sessions" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Xg9k1YAQE1Uhe5DRs7J3-80" value="Sessions" style="rounded=1;fillColor=#009900;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="650" y="850" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xg9k1YAQE1Uhe5DRs7J3-81" value="Contacts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Xg9k1YAQE1Uhe5DRs7J3-81" value="Contacts" style="rounded=1;fillColor=#009900;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="740" y="980" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xg9k1YAQE1Uhe5DRs7J3-82" value="Payment" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Xg9k1YAQE1Uhe5DRs7J3-82" value="Payment" style="rounded=1;fillColor=#009900;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="960" y="980" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xg9k1YAQE1Uhe5DRs7J3-83" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3" target="Xg9k1YAQE1Uhe5DRs7J3-79">
